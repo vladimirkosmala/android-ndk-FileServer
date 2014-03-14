@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">File Server</string>
+    <string name="ready">Prêt</string>
+    <string name="ip_not_found">IP introuvable, êtes vous connecté au Wifi ?</string>
+    <string name="storage_not_found">Carte SD introuvable, le serveur ne peut démarrer.</string>
+    <string name="view_address">Carte SD visible sur http://<xliff:g id="ip" example="IP" >%s</xliff:g>:8090</string>
+ 
+</resources>

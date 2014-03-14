@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="rn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">File Server</string>
+    <string name="ready">Ready</string>
+    <string name="ip_not_found">IP not found, are you connected to Wifi ?</string>
+    <string name="storage_not_found">Sorry, your external storage seems unreadable and the server can\'t start.</string>
+    <string name="view_address">View sdcard on http://<xliff:g id="ip" example="IP" >%s</xliff:g>:8090</string>
+ 
+</resources>
